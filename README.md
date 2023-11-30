@@ -13,4 +13,4 @@ pnpm dev
 # or
 bun dev
 ```
-The code demo renders a large list and then edits one of all of the list, check rerender.
+The code demo renders a large list and then edits one of all of them, check rerender.
